@@ -12,8 +12,7 @@ Dynamic Paragraph Length: Generates paragraphs with a maximum length of 200 word
 
 ## Usage:
 Clone the repository: git clone https://github.com/sarahasan17/GPT-2-QuillWhiz/blob/main/README.md
-\n
-Install dependencies: pip install gradio --upgrade
+                   Install dependencies: pip install gradio --upgrade
 
 ## Contributing:
 Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to submit a pull request.
