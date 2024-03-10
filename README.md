@@ -21,3 +21,7 @@ Contributions are welcome! If you have ideas for improvements, bug fixes, or new
 This project makes use of the transformers library for easy integration with the GPT-2 model.
 
 Explore the capabilities of GPT-2 and enhance your content creation experience with the GPT-2 Paragraph Generator!
+
+##SCREENSHOT OF Gradio USER INTERFACE
+![image](https://github.com/sarahasan17/GPT-2-QuillWhiz/assets/103211125/eb3c33f2-30fa-48d0-8e5f-1f1882fb033f)
+
