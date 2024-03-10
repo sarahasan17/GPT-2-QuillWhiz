@@ -11,9 +11,8 @@ Customization Options: Users can experiment with different prompts to influence 
 Dynamic Paragraph Length: Generates paragraphs with a maximum length of 200 words, offering substantial and informative content.
 
 ## Usage:
-Clone the repository: git clone https://github.com/yourusername/GPT2-Paragraph-Generator.git
-Install dependencies: pip install -r requirements.txt
-Run the application: python app.py
+Clone the repository: git clone https://github.com/sarahasan17/GPT-2-QuillWhiz/blob/main/README.md
+Install dependencies: pip install gradio --upgrade
 
 ## Contributing:
 Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to submit a pull request.
